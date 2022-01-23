@@ -5,4 +5,4 @@ Dentro da pasta /src, há o Dockerfile com instruções para a criação da imag
 
 Na pasta /k8s, há o arquivo deployment.yaml, que permite o deploy em Kubernetes local.
 
-2301/2022
+23/01/2022
